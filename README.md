@@ -4,9 +4,9 @@ I'm a skilled front end developer with experience in JavaScript and JavaScript f
 - 🔭 I’m currently working on **rebuilding my portfolio and blog.** Full disclosure, the current version of my portfolio was built when I dabbled with Three.js and needed to spin something up for a job interview quickly.
 You can keep track of my new portfolio here:  
 
-- 👨‍💻 All of my projects are available at [https://callumwk.com](callumwk.com)
+- 👨‍💻 All of my projects are available at [callumwk.com](https://callumwk.com)
 
-- 📝 I ~~regularly write articles~~ will start writing articles on [https://callumwk.com/blog](callumwk.com/blog)
+- 📝 I ~~regularly write articles~~ will start writing articles on [callumwk.com/blog](https://callumwk.com/blog)
 
 - 📫 How to reach me **business@callumwk.com**
 
