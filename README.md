@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Callum Wellwood-Kane</h1>
-I'm a skilled front end developer with experience in JavaScript and JavaScript frameworks, namely React and Gatsby, alongside a working knowledge of Node.js, C# and SQL. These skills are coupled with a passion for design systems, web accessibility and building great customer experiences.
+I'm a skilled front end developer with experience in JavaScript and JavaScript frameworks, namely React and Gatsby, alongside a working knowledge of Node.js, C# and SQL. Coupled with these skills is a passion for design systems, web accessibility and building great customer experiences.
 
-- 🔭 I’m currently working on **rebuilding my portfolio and blog.** Full disclosure, the current version of my portfolio was built when I was dabbling with Three.js, and needed to quickly spin something up for a job interview.
+- 🔭 I’m currently working on **rebuilding my portfolio and blog.** Full disclosure, the current version of my portfolio was built when I dabbled with Three.js and needed to spin something up for a job interview quickly.
+You can keep track of my new portfolio here:  
 
 - 👨‍💻 All of my projects are available at [callumwk.com](callumwk.com)
 
