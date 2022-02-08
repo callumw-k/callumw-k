@@ -1,7 +1,7 @@
 <h1>Hi, I'm Callum Wellwood-Kane</h1>
 I'm a skilled front end developer with experience in JavaScript and JavaScript frameworks, namely React, alongside a working knowledge of Node.js, C# and SQL. Coupled with these skills is a passion for design systems, web accessibility and building great customer experiences.
 
-- 🔭 I’m currently working on rebuilding my portfolio and blog. Full disclosure: I built the [current version]("https://github.com/callumw-k/three-js-portfolio-vanilla") of my portfolio when I was dabbling with Three.js and needed to quickly spin something up for a job interview. (It was loosely inspired by [The Virtual Economy](https://atelier.net/virtual-economy/)). </br> You can keep track of my new portfolio [here](https://github.com/callumw-k/portfolio-and-blog-v2).   
+- 🔭 I’m currently working on rebuilding my portfolio and blog. Full disclosure: I built the [current version](https://github.com/callumw-k/three-js-portfolio-vanilla) of my portfolio when I was dabbling with Three.js and needed to quickly spin something up for a job interview. (It was loosely inspired by [The Virtual Economy](https://atelier.net/virtual-economy/)). </br> You can keep track of my new portfolio [here](https://github.com/callumw-k/portfolio-and-blog-v2).   
 
 - 👨‍💻 ~~All~~ Some of my projects are available at [callumwk.com](https://callumwk.com) (more will be available once v2 of my portfolio goes live)
 
